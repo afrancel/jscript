@@ -1,4 +1,4 @@
-var espacio = "<-----------------------------------//-------------------->"
+var espacio = "<----//---->"
 
 //OPERADOR DE ASIGNACIÓN --> "=" (signo igual)
 var a; // esto indicará undefined
