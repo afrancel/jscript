@@ -25,3 +25,5 @@ console.log(multiplicacion);
 console.log(division);
 console.log(resto);
 console.log(espacio)
+
+//OTROS
